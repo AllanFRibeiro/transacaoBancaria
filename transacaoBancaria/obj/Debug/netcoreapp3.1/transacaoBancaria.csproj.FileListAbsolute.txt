@@ -1,0 +1,14 @@
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.csproj.AssemblyReference.cache
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.AssemblyInfoInputs.cache
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.AssemblyInfo.cs
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\bin\Debug\netcoreapp3.1\transacaoBancaria.exe
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\bin\Debug\netcoreapp3.1\transacaoBancaria.deps.json
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\bin\Debug\netcoreapp3.1\transacaoBancaria.runtimeconfig.json
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\bin\Debug\netcoreapp3.1\transacaoBancaria.runtimeconfig.dev.json
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\bin\Debug\netcoreapp3.1\transacaoBancaria.dll
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\bin\Debug\netcoreapp3.1\transacaoBancaria.pdb
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.dll
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.pdb
+C:\Imersao_Logica\transacaoBancaria\transacaoBancaria\obj\Debug\netcoreapp3.1\transacaoBancaria.genruntimeconfig.cache
